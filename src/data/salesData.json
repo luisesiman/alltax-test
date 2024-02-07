@@ -1,0 +1,629 @@
+[
+    {
+        "name": "Comida",
+        "products": [
+            {
+                "name": "Frutas",
+                "brands": [
+                    {
+                        "name": "Maçã",
+                        "sales": [
+                            {
+                                "quantity": 100,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 20,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 50,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 70,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Laranja",
+                        "sales": [
+                            {
+                                "quantity": 10,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 20,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 30,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 40,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Banana",
+                        "sales": [
+                            {
+                                "quantity": 150,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 150,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 120,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 170,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pães",
+                "brands": [
+                    {
+                        "name": "Bolo 1",
+                        "sales": [
+                            {
+                                "quantity": 10,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 25,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 51,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 13,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bolo 2",
+                        "sales": [
+                            {
+                                "quantity": 100,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 104,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 102,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 98,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bolo 3",
+                        "sales": [
+                            {
+                                "quantity": 150,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 155,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 30,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 84,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Carnes",
+                "brands": [
+                    {
+                        "name": "Carne 1",
+                        "sales": [
+                            {
+                                "quantity": 200,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 150,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 175,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carne 2",
+                        "sales": [
+                            {
+                                "quantity": 70,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 150,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 60,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 90,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carne 3",
+                        "sales": [
+                            {
+                                "quantity": 15,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 130,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 0,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Roupas",
+        "products": [
+            {
+                "name": "Camiseta",
+                "brands": [
+                    {
+                        "name": "Camiseta 1",
+                        "sales": [
+                            {
+                                "quantity": 20,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 70,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 170,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 175,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Camiseta 2",
+                        "sales": [
+                            {
+                                "quantity": 90,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 10,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 15,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 40,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Camiseta 3",
+                        "sales": [
+                            {
+                                "quantity": 50,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 50,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 25,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jaqueta",
+                "brands": [
+                    {
+                        "name": "Jaqueta 1",
+                        "sales": [
+                            {
+                                "quantity": 75,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 84,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 72,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 55,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jaqueta 2",
+                        "sales": [
+                            {
+                                "quantity": 79,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 80,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 65,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 140,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jaqueta 3",
+                        "sales": [
+                            {
+                                "quantity": 17,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 58,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 98,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 66,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sapato",
+                "brands": [
+                    {
+                        "name": "Sapato 1",
+                        "sales": [
+                            {
+                                "quantity": 20,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 150,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 15,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sapato 2",
+                        "sales": [
+                            {
+                                "quantity": 54,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 54,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 25,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sapato 3",
+                        "sales": [
+                            {
+                                "quantity": 67,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 78,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 26,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 31,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Móveis",
+        "products": [
+            {
+                "name": "Guarda-Roupa",
+                "brands": [
+                    {
+                        "name": "Guarda-Roupa 1",
+                        "sales": [
+                            {
+                                "quantity": 50,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 40,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 105,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 160,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guarda-Roupa 2",
+                        "sales": [
+                            {
+                                "quantity": 70,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 170,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 40,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 50,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guarda-Roupa 3",
+                        "sales": [
+                            {
+                                "quantity": 155,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 150,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 49,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Escrivaninha",
+                "brands": [
+                    {
+                        "name": "Escrivaninha 1",
+                        "sales": [
+                            {
+                                "quantity": 200,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 100,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 150,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 105,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Escrivaninha 2",
+                        "sales": [
+                            {
+                                "quantity": 97,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 65,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 60,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 97,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Escrivaninha 3",
+                        "sales": [
+                            {
+                                "quantity": 150,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 120,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 60,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 15,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sofá",
+                "brands": [
+                    {
+                        "name": "Sofá 1",
+                        "sales": [
+                            {
+                                "quantity": 48,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 65,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 115,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 110,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sofá 2",
+                        "sales": [
+                            {
+                                "quantity": 80,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 46,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 45,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 65,
+                                "month": "April"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sofá 3",
+                        "sales": [
+                            {
+                                "quantity": 80,
+                                "month": "January"
+                            },
+                            {
+                                "quantity": 70,
+                                "month": "February"
+                            },
+                            {
+                                "quantity": 80,
+                                "month": "March"
+                            },
+                            {
+                                "quantity": 70,
+                                "month": "April"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
